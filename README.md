@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KrazyyK9 (JP)
+- 👀 I’m interested in software development and automation projects
+- 🌱 I’m currently learning JS, CSS3, HTML5, Python, React, Powershell, Pearl, Bash, Batch, VBScript
+- 💞️ I’m looking to collaborate on fun automation projects or any fullstack web development projects
+- 📫 How to reach me [My Website](https://jpreeves.netlify.app/)
