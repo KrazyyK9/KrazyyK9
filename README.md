@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrazyyK9 (JP)
+- 👋 Hi, I’m JP @KrazyyK9
 - 👀 I’m interested in software development and automation projects
 - 🌱 I’m currently learning JS, CSS3, HTML5, Python, React, Powershell, Pearl, Bash, Batch, VBScript
 - 💞️ I’m looking to collaborate on fun automation projects or any fullstack web development projects
