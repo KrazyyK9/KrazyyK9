@@ -65,26 +65,26 @@
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web App to Look Up Any Pokemon Using Pokemon API - JS, HTML, CSS</strong></p>
+        <p align="center">Web app for booking a local dog walker</p>
     </td>
   </tr>
 <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Border Radius Previewer</h3>
+      <h3 align="center">Wilderness Explorer</h3>
         <br />
-        <a target="_blank" href="https://borderradiuspreview.netlify.app/">
-            <img src="border.gif" width="100%" height="270px" alt="Border Radius Previewer website"/>
+        <a target="_blank" href="https://wildernessexplorer.netlify.app/">
+            <img src="assets/wildernessexplorer.gif" width="100%" height="270px" alt="Wilderness Explorer Website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AlexLieb83/Border-Radius-Previewer" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
-  <a href="https://borderradiuspreview.netlify.app/" target="_blank" rel="noreferrer">
+  <a href="https://wildernessexplorer.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Web App to Preview and Create Custom Border Radius - JS, HTML, CSS</strong></p>
+         <p align="center">Webpage for exploring the wilderness around the GTA</p>
     </td>
   </tr>
 </table>
