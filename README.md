@@ -51,17 +51,17 @@
          <p align="center">Website for personal training buisness</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Poke-Pics</h3>
+      <h3 align="center">The Woof Pack</h3>
       <br />
-        <a target="_blank" href="https://pokemonpics.netlify.app/">
-          <img src="pokepics.gif" width="95%" height="270px" alt="poke-pics website"/>
+        <a target="_blank" href="https://thewoofpack.netlify.app/">
+          <img src="assets/thewoofpack.gif" width="95%" height="270px" alt="Woof Pack Website"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/AlexLieb83/Poke-Pics" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
   </a>
-  <a href="https://pokemonpics.netlify.app/" target="_blank">
+  <a href="https://thewoofpack.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
   </a>
       </p>
