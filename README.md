@@ -38,7 +38,7 @@
       <h3 align="center">IronForge Fitness</h3>
         <br />
         <a target="_blank" href="https://ironforgefitness.ca/">
-            <img src="ironforgefitness.gif" width="100%" height="270px" alt="Iron Forge Website"/>
+            <img src="/assets/ironforgefitness.gif" width="100%" height="270px" alt="Iron Forge Website"/>
         </a>
         <br />
         <p align="center">
