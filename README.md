@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio!](https://jpreeves.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML, node.js, Powershell, Bash, VBScript, mySQL**
+- 🌱 I’m currently learning **Javascript, CSS, HTML, Mongoose, Express, Node.js, React, Powershell, Bash, VBScript, mySQL**
 
 - 👯 I’m looking to collaborate on **anti-spam filter bots!**
 
