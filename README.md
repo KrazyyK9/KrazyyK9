@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JP Reeves (@KrazyyK9)</h1>
 <h3 align="center">A dedicated full stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [my portfolio!](https://jpreeves.netlify.app/)
+- 🔭 I’m currently working on databricks, RPAs, and [my portfolio!](https://jpreeves.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML, Mongoose, Express, Node.js, React, Powershell, Bash, VBScript, mySQL**
+- 🌱 I’m currently learning **Javascript, CSS, HTML, Mongoose, Express, Node.js, React, Powershell, Bash, VBScript, mySQL, Python, PowerAutomate**
 
 - 👯 I’m looking to collaborate on **anti-spam filter bots!**
 
